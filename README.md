@@ -15,3 +15,9 @@ Enter the following link in your browser<br>
 Download the latest release in the <b>Releases</b> part on the right of this page,<br>
 Then you just have to download the zip file and extract it in your `Documents\Jalopy\Mods`<br>
 <i>(so the DLL comes with the DLLs, and the assets gets into the Assets folder)</i>
+
+## Preview
+
+![image](https://github.com/Jalopy-Mods/Laika-1.1/assets/69876322/c6e3b3ad-7b08-4d1c-ae15-691bc7ec94aa)
+
+<i>Don't mind the rear, it's just plain ugly</i>
